@@ -1,0 +1,6 @@
+D:\Учеба\С#_5.0\DZ\DZ_28.02.15\Yabl_Tach\Yabl_Tach\bin\Debug\Yabl_Tach.exe.config
+D:\Учеба\С#_5.0\DZ\DZ_28.02.15\Yabl_Tach\Yabl_Tach\obj\Debug\Yabl_Tach.csprojResolveAssemblyReference.cache
+D:\Учеба\С#_5.0\DZ\DZ_28.02.15\Yabl_Tach\Yabl_Tach\bin\Debug\Yabl_Tach.exe
+D:\Учеба\С#_5.0\DZ\DZ_28.02.15\Yabl_Tach\Yabl_Tach\bin\Debug\Yabl_Tach.pdb
+D:\Учеба\С#_5.0\DZ\DZ_28.02.15\Yabl_Tach\Yabl_Tach\obj\Debug\Yabl_Tach.exe
+D:\Учеба\С#_5.0\DZ\DZ_28.02.15\Yabl_Tach\Yabl_Tach\obj\Debug\Yabl_Tach.pdb
